@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_titles">
+        <item>A CITY RAT AND A VILLAGE RAT</item>
+        <item>Midas and the Golden Touch</item>
+        <item>The Ant and the Grasshopper</item>
+        <item>Aladdin and the Magic Lamp</item>
+        <item>The Very Hungry Caterpillar</item>
+        <item>The Emperor’s New Clothes</item>
+        <item>Cinderella</item>
+        <item>A WISE PARROT</item>
+        <item>King log</item>
+        <item>The dog and His Master</item>
+        <item>Save Yourself</item>
+        <item>The Black Men at the Door of the Sun</item>
+        <item>The Ugly Duckling</item>
+        <item>The boy who cried wolf</item>
+        <item>A Lesson From Nature </item>
+        </string-array>
+</resources>
